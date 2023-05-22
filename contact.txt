@@ -1,0 +1,4 @@
+Gabor;Kiss;06303808582;poker@gmail.com;ures;
+Bence;Bosze;06303808582;gaborkiss02@gmail.com;ures;
+Mate;Feher;06303808582;poker@gmail.com;ures;
+Dani;Czegledi;06303808582;czegi@gmail.com;ures;
